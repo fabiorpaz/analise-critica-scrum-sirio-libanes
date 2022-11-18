@@ -1,0 +1,1 @@
+# analise-critica-scrum
