@@ -1,4 +1,5 @@
-  ## Análise crítica sobre aplicação do Scrum, estudo de Caso do Hospital Sírio-Libanês
+  # Análise crítica sobre aplicação do framework Scrum
+  ### _Estudo de Caso do Hospital Sírio-Libanês_
   
   ### Sobre
   Porquea abordagem ágil foi utilizada e não a tradicional para o projeto?
